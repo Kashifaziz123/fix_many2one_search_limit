@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="assets_backend_inherit" name="fix_search_limits" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+             <script type="text/javascript" src="/fix_searchmany2one_limit/static/src/js/form_common.js"></script>
+
+        </xpath>
+    </template>
+</odoo>
