@@ -9,7 +9,7 @@
        default limit in odoo many2one is 160,it increases its limit
     """,
 
-    'author': "Kashif",
+    'author': "Kashif Aziz",
     'website': "http://www.odoo.com",
 
 
