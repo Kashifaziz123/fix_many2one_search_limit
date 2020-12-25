@@ -10,7 +10,7 @@
     """,
 
     'author': "Alhaditech",
-    'website': "http://www.odoo.com",
+    'website': "http://alhaditech.com",
 
 
     'depends':['base','web'],
